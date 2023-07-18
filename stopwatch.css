@@ -1,0 +1,21 @@
+#timeDisplay{
+    font-size:50px;
+    margin:20px 0;
+}
+#startbutton{
+    width:100px;
+    height:40px;
+}
+#stopbutton{
+    width:100px;
+    height:40px;
+}
+
+#resetbutton{
+    width:100px;
+    height:40px;
+}
+#cssfix{
+    display:flex;
+    text-align:center;
+}
